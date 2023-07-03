@@ -1,4 +1,12 @@
 Hello Git 123 Branch
 It's new line.
+<<<<<<< HEAD
 Add new line. 12312
 123
+=======
+<<<<<<< HEAD
+Add new line. 12312 1
+=======
+Add new line. 12312
+>>>>>>> 7e896f9 (Revert "Added new file.")
+>>>>>>> 125b17f (Revert "Added new file.")
